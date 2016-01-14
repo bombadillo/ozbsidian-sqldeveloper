@@ -1,4 +1,4 @@
-            <Item>
+           <Item>
                <Key>OzBsidian</Key>
                <Value class="java.util.ArrayList">
                   <Item class="oracle.ide.ceditor.options.S2Style" name="base-plain-style" usepfg="false" frgb="-1579033" usepbg="false" brgb="-15328735" usepfont="false" font="0"/>
